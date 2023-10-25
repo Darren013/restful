@@ -1,0 +1,37 @@
+{
+"song1" : {
+    "song" : "Just the Two of Us",
+    "artist" : "Bill Withers",
+    "genre" : "R&B",
+    "link": "https://www.youtube.com/watch?v=KYwA5k00p2I",
+    "id": "1"
+},
+"song2" : {
+    "song" : "Something Stupid",
+    "artist" : "Frank Sinatra",
+    "genre" : "Pop",
+    "link": "https://www.youtube.com/watch?v=F8dKVbP1Nzo",
+    "id": "2"
+},
+"song3" : {
+    "song" : "Circles",
+    "artist" : "Post Malone",
+    "genre" : "Pop",
+    "link": "https://www.youtube.com/watch?v=wXhTHyIgQ_U",
+    "id": "3"
+},
+"song4" : {
+    "song" : "Kiss Me",
+    "artist" : "Sixpence None the Richer",
+    "genre" : "Pop",
+    "link": "https://www.youtube.com/watch?v=v45F0YesdZM",
+    "id": "4"
+},
+"song5" : {
+    "song" : "The Reason",
+    "artist" : "Hoobastank",
+    "genre" : "Rock",
+    "link": "https://www.youtube.com/watch?v=fV4DiAyExN0",
+    "id": "5"
+}
+}
